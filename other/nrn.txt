@@ -1,0 +1,53 @@
+Demensomsorg med personen i fokus
+
+Bedriften Noen AS kurser egne veiledere for at de skal få et nært forhold til sine demenspasienter. Målet er økt livskvalitet. Et IT-verktøy utviklet av forskere skal hjelpe bedriften å dokumentere at de har satset riktig.
+
+Alle som blir veiledere i bedriften ledes gjennom en fast prosess og metode. Først får de en ukes kursing før de tildeles sin person med demens. Deretter setter veileder, pårørende og den demente seg rundt bordet og samtaler: Hvem ER den demente? Hvilke interesser og egenskaper har hun/han? Hva jobbet de med tidligere?
+
+Ut fra informasjonen blir det viktig å oppnå en riktig match mellom veileder og personen med demens – for i etterkant skal veilederen besøke kontakten sin to ganger i uka. Et siste punkt i metoden er at en evaluering blir gjort hver tredje måned. Her deltar alle parter, og diskuterer: Har sykdommen blitt bedre eller verre? Er livskvaliteten god for den demente?
+
+Dette er metoden og det IT-baserte støtteverktøyet vi har utarbeidet sammen med Cantega, Uno IT og Senter for omsorgsforskning, sier forskningsleder Babak Farshchian ved SINTEF.
+
+Det legger et godt grunnlag for persontilpasset veiledning og helsefremmende aktivitetstiltak i hjemmet og nærmiljøet.
+
+Ideen bak bedriften
+
+Grunnleggeren av bedriften Noen AS, Heidi Wang, hadde en idé om at man kan bedre helsen og livskvaliteten til personer med demens gjennom å tilby de aktiviteter som de har interesse for og har holdt på med tidligere.
+
+Wang har gjennom flere år utviklet et utstrakt samarbeid med NAV i Sør-Trøndelag og Nord-Trøndelag, og sertifiserer jobbsøkere som enda har arbeidsevne, til veiledere og støttespillere for personene med demens. Bedriften ble etablert i 2008.
+
+Veilederne er folk som har vært ute av arbeidslivet. De kan være uføretrygdet, eller ha kommet tilbake etter ha opplevd kriser de har kommet styrket ut av. Vi kurser og sertifiserer dem, gir fast ansettelse og lønner dem på oppdragsbasis, forteller Wang.
+
+Dette er trygge, empatiske mennesker som med letthet kan utøve faget vårt.
+
+Tre behandlingsformer ved demensbehandling
+
+I dag brukes det tre ulike former for behandling av demenspasienter:
+
+Gjennom medisinbruk forsøker man å reparere eller forsinke utviklingen, eller bare roe ned pasientene.
+
+Man kan tilrettelegge best mulig for pasienten, for eksempel ved å bruke GPS-utstyr som gjør det mulig å spore pasientene.
+
+Den tredje og siste metoden er en forholdsvis ny retning; personsentrert demensomsorg
+
+Det er denne siste behandlingen som Noen AS bygger på. Personen med demens står i sentrum for utviklingen av tjenesten – i stedet for at tjenesten planlegges ut fra den pårørende parten. Veilederne tilbringer tid med pasienten og tilrettelegger for aktivitet som er forankret i dagliglivet og ressursene til den de jobber med.
+
+Aktivitetene
+
+Aktivitetene det legges opp til, er varierte og foregår i hjemmet eller i nærmiljøet. Det er veilederens kompetanse å velge ut og gjennomføre aktiviteter som er betydningsfulle. Her er det snakk om alt fra bærplukking og matlaging – til fisketurer og konsertbesøk.
+
+Wang presiserer at det ikke er aktiviteten i seg selv som er helsefremmende, men måten rett aktivitet tilrettelegges og gjennomføres på. For å oppnå resultater, anbefales det aktiviteter på et par timer minimum to ganger i uka.
+
+Aktiviseringen betyr i tillegg en stor avlastning for pårørende.
+
+Personer som har fått tjenesten vår, har opprettholdt sin livskvalitet. I studien støtter vi oss ikke på fravær av sykdom, men på en subjektiv opplevelse av hvordan den enkelte har det, sier Wang.
+
+Utviklet et IKT-verktøy
+
+Heidi Wang har i alle år støttet seg på forskning og forskningsprosjekter for å videreutvikle bedriften.
+
+Pårørende har hele veien ment at de har sett bedre livskvalitet og bedret helsetilstand hos den demente. En slik endring har jeg hatt behov for å dokumentere for å forstå hva som virker og for å planlegge aktiviteter framover. Gjennom brukerstyrt innovasjon (BIA-prosjekt) har vi nå endelig fått utviklet et IKT-verktøy som er tilpasset veilederens behov. I den web-baserte løsningen kan veilederen oppsummere og evaluere samværet, planlegge nye aktiviteter, utveksle erfaring og ikke minst visualisere pasientenes utvikling, forteller Wang.
+
+Babak Farshchian ved SINTEF forteller at forskergruppen også har vært med på å lage undervisningsmateriellet som brukes når veiledere sertifiseres.
+
+Ett av målene med forskningsprosjektet er å vise at denne formen for demensomsorg er gjennomførbar og lønnsom, også innenfor begrensede budsjetter i en kommune, sier han.
